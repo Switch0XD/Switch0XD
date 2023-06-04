@@ -1,4 +1,4 @@
-I'm Kuldeep Singh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀
+<CENTER> # I'm Kuldeep Singh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</CENTER>
 
 
 # 💫 About Me:
