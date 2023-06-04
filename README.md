@@ -1,6 +1,8 @@
-# 💫 About Me:
-I’m currently working on QuizApp Project<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with Freelance Projects<br>🌱 I’m currently learning DSA with JS<br>💬 Ask me about MERN<br>⚡ Fun fact 
+I'm Kuldeep Singh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀
 
+
+# 💫 About Me:
+I’m currently working on QuizApp Project <br>👯 I’m looking to collaborate on Hackathon Teams<br>🤝 I’m looking for help with Freelance Projects<br>🌱 I’m currently learning DSA with JS<br>💬 Ask me about MERN stack and related technologies <br>⚡ Fun fact: JavaScript logic: 0 == "0" and 0 == []; therefore, "0" != []
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/switchxd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Switch0XD) 
